@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Ghai</h1>
 <h3 align="center">A passionate Machine Learning Enthusiast from India</h3>
 
-- 🔭 I’m currently working on [Project for L&T](https://github.com/adityaghai07/SureBot)
+- 🔭 I’m currently working on [Project for L&T]((https://github.com/adityaghai07/KnowYourCompetitor))
 
 - 🌱 I’m currently learning **Deep Learning and NLP**
 
