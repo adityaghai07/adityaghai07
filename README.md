@@ -5,25 +5,30 @@ Hi , Aditya this side , I love to build ML Projects!<br>🔭 I’m currently wor
 ## 🏆 Tech Achievements
 
 ### 🥇 Major Hackathon Wins
-- **MLH HackByte 2.0 Grand Winner**: AI Game Coach 
-  - 91% mean average precision
-  - Detailed graphical & point-by-point analysis for badminton sport
+- **MLH HackByte 2.0 Grand Winner**: AI Game Coach
+  - End to End AI based game coach with Detailed graphical & point-by-point analysis for badminton sport.
+  - 91% mean average precision for shot classification and TAL boundary estimation.
+  
 
 - **IIT Roorkee ThermaOracle Grand Winner**: Temperature Prediction
+  - Advanced ensemble modeling techniques with a pinch of backtracking.
   - R2 Score: 0.91
-  - Advanced ensemble modeling techniques
+
 
 - **IIT Indore AnalyticaX Grand Winner**: Vaccination Prediction
+  - Robust predictive modeling and feature engineering, did a lot of EDA :)
   - Stratified Cross-Val ROC-AUC: 0.87
-  - Robust predictive modeling with a pinch of backtracking!
+ 
 
 - **AI BioInnovate Challenge IIT Jodhpur Winner**: Clustering Ensemble
+  - Computationally efficient MOSES Dataset analysis and ensemble clustering.
   - Silhouette Score: 0.72
-  - Computationally efficient MOSES Dataset analysis and ensemble clustering
+  
  
 - **Smart India Hackathon Finalist 2023**: Interactive VoiceBot
+  - 3D Chacha Chaudhary themed conversational AI ChatBot
   - Built for Ministry of Jal Shakti
-  - Chacha Chaudhary themed conversational AI
+  
  
   
 ---
