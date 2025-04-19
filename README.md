@@ -4,6 +4,13 @@ Hi , Aditya this side , I love to build ML Projects!<br>🔭 I’m currently wor
 
 ## 🏆 Tech Achievements
 
+### Contributor at Unsloth
+- Solved Windows compatibility issue.  -  **$300 Bounty**
+- [Under Review] GGUF Saving of Qwen2-VL Model -  **$500 Bounty**
+- Both contributions done in collaboration with [Captain-T2004](https://github.com/Captain-T2004)
+
+  ---
+
 ### 🥇 Major Hackathon Wins
 - **MLH HackByte 2.0 Grand Winner**: AI Game Coach
   - End to End AI based game coach with Detailed graphical & point-by-point analysis for badminton sport.
