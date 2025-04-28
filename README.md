@@ -1,6 +1,6 @@
 
 # 💫Hi , Aditya here!
-Hi , Aditya this side , I love to build ML Projects!<br>🔭 I’m currently working on RAG Pipelines from scratch.<br>👯 I’m looking to collaborate on AI Projects related to NLP.<br>🌱 I’m currently learning Core ML.<br>
+Hi , Aditya this side , I love to build ML Projects!<br>
 
 ## 🏆 Tech Achievements
 
