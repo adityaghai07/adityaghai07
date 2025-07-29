@@ -49,7 +49,6 @@ Hi , Aditya this side , I love to build ML Projects!<br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=adityaghai07&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaghai07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 ### 🔝 Top Contributed Repo
