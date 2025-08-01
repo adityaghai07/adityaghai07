@@ -5,8 +5,11 @@ Hi , Aditya this side , I love to build ML Projects!<br>
 ## 🏆 Tech Achievements
 
 ### Contributor at Unsloth
-- Solved Windows compatibility issue.  -  **$300 Bounty**
-- Contributions done in collaboration with [Captain-T2004](https://github.com/Captain-T2004)
+- Solved Windows compatibility issue.  -  **$300 Bounty** 
+- Solved issue - [link](https://github.com/unslothai/unsloth/discussions/1849)
+
+### Kaggle Expert
+- Kaggle Notebooks Expert, Though I am not very active here :)
 
   ---
 
