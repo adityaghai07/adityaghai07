@@ -17,6 +17,10 @@ Hi , Aditya this side , I love to build ML Projects!<br>
 - **MLH HackByte 2.0 Grand Winner**: AI Game Coach
   - End to End AI based game coach with Detailed graphical & point-by-point analysis for badminton sport.
   - 91% mean average precision for shot classification and TAL boundary estimation.
+ 
+- **Convolve 4.0 2nd Prize** : Local OCR Pipeline
+  - Build a solution for IDFC First Bank, a OCR pipeline for really hard handwritten vernacular usecases under tight VRAM and latency constraints.
+  - Benchmarked on custom OS datasets, finetuned rf-detr and qwen based models, multi-shot prompting and rigourous EDA.
   
 
 - **IIT Roorkee ThermaOracle Grand Winner**: Temperature Prediction
