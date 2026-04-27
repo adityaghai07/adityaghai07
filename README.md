@@ -4,7 +4,7 @@ Hi , Aditya this side , I love to build ML Projects!<br>
 
 ## 🏆 Tech Achievements
 
-### Contributor at Unsloth
+### Unsloth Bounty
 - Solved Windows compatibility issue.  -  **$300 Bounty** 
 - Solved issue - [link](https://github.com/unslothai/unsloth/discussions/1849)
 
