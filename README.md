@@ -8,9 +8,10 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/aditya-ghai/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%232E3440.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://x.com/aditya_ghai07" target="_blank"><img src="https://img.shields.io/badge/@aditya__ghai07-%232E3440.svg?&style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="https://medium.com/@adityaghailbdrp1" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/aditya-ghai/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-%232E3440?style=for-the-badge&logo=linkedin-white&logoColor=white"/></a>
+<a href="https://x.com/aditya_ghai07" target="_blank"><img src="https://img.shields.io/badge/Twitter-%232E3440.svg?&style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://medium.com/@adityaghailbdrp1" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Medium-%232E3440?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<a href="https://www.youtube.com/@adityaghai220" target="_blank"><img src="https://img.shields.io/badge/YouTube-%232E3440.svg?&style=for-the-badge&logo=youtube&logoColor=white"/></a>
 
 </div>
 
