@@ -23,11 +23,6 @@
       <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=adityaghai07&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff"/>
     </td>
   </tr>
-  <tr>
-    <td colspan="2">
-      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=adityaghai07&theme=dark&hide_border=true"/>
-    </td>
-  </tr>
 </table>
 
 ---
