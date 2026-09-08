@@ -25,8 +25,7 @@ ml systems and optimizations :)
 
 A few small open source contributions along the way.
 
-- **NVIDIA Megatron-LM** · [#6586](https://github.com/NVIDIA/Megatron-LM/pull/6586): rotary base and RoPE scaling args were parsed but never passed down to the VLM path, so both were silently ignored. Fixed both call sites.
-- **NVIDIA Megatron-LM** · [#5999](https://github.com/NVIDIA/Megatron-LM/pull/5999): the ReGLU and ReLU branches in `TEActivationOp` both checked for SiLU, so every case fell through to ReLU. Fixed the mapping and added tests for each activation pair.
+- **NVIDIA Megatron-LM** · [#6586](https://github.com/NVIDIA/Megatron-LM/pull/6586) and [#5999](https://github.com/NVIDIA/Megatron-LM/pull/5999): Fixed two issues: rotary base and RoPE scaling args were parsed but never passed to the VLM path, and both `TEActivationOp` ReGLU and ReLU branches incorrectly checked for SiLU, causing every case to fall through to ReLU; fixed both call sites and the activation mapping.
 - **Unsloth** · [$300 bounty](https://github.com/unslothai/unsloth/discussions/1849): Windows compatibility fix.
 - **Kaggle** · Notebooks Expert.
 
