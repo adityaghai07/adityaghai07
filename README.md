@@ -14,7 +14,7 @@
 
 ---
 
-I work on the systems layer of machine learning: how training and inference actually run on real hardware.
+ml systems and optimizations :)
 
 - **Now** · AI @ [Rimo](https://rimo.app), Tokyo 🇯🇵. I build the production search stack serving 1M+ users, plus `rimo-cli` and the Rimo MCP server, and I work on our in-house inference.
 - **Building** · [vithos.in](https://vithos.in), consumer health records. On the Play Store soon.
